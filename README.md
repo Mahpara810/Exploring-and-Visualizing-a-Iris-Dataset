@@ -46,3 +46,9 @@ The notebook creates three types of visualizations:
 ### Prerequisites
 ```bash
 pip install pandas seaborn matplotlib jupyter
+### Usage
+Clone the repository
+
+Navigate to the project directory
+
+Launch Jupyter Notebook:
