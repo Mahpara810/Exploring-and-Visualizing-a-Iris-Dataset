@@ -61,9 +61,11 @@ jupyter notebook iris_dataset.ipynb
 4. Run cells sequentially to reproduce the analysis
 
 ## File Structure
+```
 ├── iris_dataset.ipynb    # Main notebook with analysis
 ├── iris.csv             # Dataset file (auto-generated)
 └── README.md           # Project documentation
+```
 
 ## Skills Demonstrated
 
