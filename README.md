@@ -57,3 +57,45 @@ pip install pandas seaborn matplotlib jupyter
 
 ```bash
 jupyter notebook iris_dataset.ipynb
+```
+4. Run cells sequentially to reproduce the analysis
+
+## File Structure
+├── iris_dataset.ipynb    # Main notebook with analysis
+├── iris.csv             # Dataset file (auto-generated)
+└── README.md           # Project documentation
+
+## Skills Demonstrated
+
+- ✅ Data loading and inspection using pandas
+- ✅ Basic data summarization techniques
+- ✅ Data visualization with matplotlib and seaborn
+- ✅ Exploratory Data Analysis (EDA) fundamentals
+- ✅ Handling categorical and numerical data
+- ✅ Statistical plotting and chart interpretation
+  
+## 📋 Code Structure
+The notebook is organized into clear steps:
+
+1. Import Libraries - Load required dependencies
+
+2. Load Dataset - Load Iris data from seaborn and save to CSV
+
+3. Inspect Data - Examine shape, columns, head/tail, and info
+
+4. Visualizations - Create scatter plots, histograms, and box plots
+   
+## 🔍 Key Insights
+- Dataset contains 150 samples with 5 columns (4 features + 1 target)
+
+- No missing values in the dataset
+
+- Features are numerical (float64), target is categorical (object)
+
+- Visualizations reveal clear separations between species
+  
+## 📄 License
+This project is open source and available under the MIT License.
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
