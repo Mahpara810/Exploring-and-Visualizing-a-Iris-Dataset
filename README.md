@@ -46,9 +46,13 @@ The notebook creates three types of visualizations:
 ### Prerequisites
 ```bash
 pip install pandas seaborn matplotlib jupyter
-### Usage
-Clone the repository
+## Usage
 
-Navigate to the project directory
+1. Clone the repository
 
-Launch Jupyter Notebook:
+2. Navigate to the project directory
+
+3. Launch Jupyter Notebook:
+
+```bash
+jupyter notebook iris_dataset.ipynb
